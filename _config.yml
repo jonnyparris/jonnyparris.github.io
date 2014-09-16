@@ -1,0 +1,12 @@
+# Site settings
+title: ruskindex.html
+email: ruskin.constant@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Behold! 'Tis a digital scrapbook of technical notes, ideas, and reflections. Aka a tech blog of my journey to become a skilled developer.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jonnyparris.github.io" # the base hostname & protocol for your site
+twitter_username: jonnyparris
+github_username:  jonnyparris
+
+# Build settings
+markdown: kramdown
