@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DBC Phase 2 - Day 7 Reflection"
-date:   2014-09-17 17:20:46
+date:   2014-09-22 17:20:46
 categories: notes DBC-reflections
 ---
 ### Memorable
