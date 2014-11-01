@@ -1,12 +1,21 @@
-# Site settings
-title: ruskindex.html
-email: ruskin.constant@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Behold! 'Tis a digital scrapbook of technical notes, ideas, and reflections. Aka a tech blog of my journey to become a skilled developer.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jonnyparris.github.io" # the base hostname & protocol for your site
+markdown: redcarpet
+highlighter: null
+permalink: /:title
+
+url: "http://jonnyparris.github.io"
+baseurl: ""
+
 twitter_username: jonnyparris
 github_username:  jonnyparris
+description: "Ruskin blogging on tech & business & feels"
 
-# Build settings
-markdown: kramdown
+title: ruskindex.html
+email: ruskin.constant@gmail.com
+
+
+redcarpet:
+  extensions: [strikethrough, tables]
+
+sass:
+  sass_dir: public/css
+  style: :compressed
