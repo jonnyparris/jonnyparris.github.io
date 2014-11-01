@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-My name is Ruskin, and I'm learning to code. That learning journey has been on and off for a few years but recently got a jumpstart as I enrolled at [Devbootcamp](http://devbootcamp.com/) in San Francisco.
+My name is Ruskin, and I'm learning to code. That learning journey has been on and off for a few years but recently got a fresh speed boost as I completed [Devbootcamp](http://devbootcamp.com/) in San Francisco.
 
-I started this tech journal for a couple main reasons:
+I started this tech & feels journal for a couple main reasons:
 
 Firstly, regular reflections are a vital part of my learning (aka coping) process as I try to soak up the buttload of tech information/news/possibilities out there.
 
