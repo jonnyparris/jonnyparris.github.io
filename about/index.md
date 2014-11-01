@@ -10,7 +10,7 @@ I started this tech journal for a couple main reasons:
 
 Firstly, regular reflections are a vital part of my learning (aka coping) process as I try to soak up the buttload of tech information/news/possibilities out there.
 
-Secondly, I feel that I have a duty to share what I can about my journey in an effort to 
+Secondly, I feel that I have a duty to share what I can about my journey in an effort to
 
   * give back to the community (and feel less like a lurking imposter!)
   * help anyone else who can benefit from the timeliness of my experiences
