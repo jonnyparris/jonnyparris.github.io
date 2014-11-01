@@ -12,6 +12,21 @@ $ruby-accent-color: #e0115f;
 $amber-accent-color: #ff7e00;
 $avocado-accent-color: #568203;
 
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+$spacing-unit:     30px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
 /*============================================================================*/
 * {
   margin: 0;
@@ -20,7 +35,7 @@ $avocado-accent-color: #568203;
 }
 
 body {
-  background-color: $site-background-color;
+  background-image: url('../images/crossword.png');
   border-top: 5px solid $contrast-color;
   font-family: 'Source Sans Pro', sans-serif;
   color: $contrast-color;
@@ -165,7 +180,7 @@ footer {
 }
 
 .top-navbar {
-  margin-bottom: 40px;
+  margin-bottom: $spacing-unit;
   height: 110px;
 
   a {
@@ -208,7 +223,7 @@ footer {
 
 .single time {
   color: #999;
-  font-size: .9rem;
+  font-size: 1rem;
 }
 
 .bundle {
@@ -244,6 +259,47 @@ dl,
 dl,
 .clearfix:after {
     clear: both;
+}
+
+.header-title {
+  margin-bottom: 0px;
+}
+/*============================================================================*/
+
+.contact-list,
+.social-media-list {
+    list-style: none;
+    margin-left: 0;
+}
+
+/*============================================================================*/
+/**
+ * Clearfix
+ */
+%clearfix {
+
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+/**
+ * Icons
+ */
+.icon {
+
+    > svg {
+        display: inline-block;
+        width: 26px;
+        height: 26px;
+        vertical-align: middle;
+
+        path {
+            fill: $grey-color;
+        }
+    }
 }
 
 /*============================================================================*/
