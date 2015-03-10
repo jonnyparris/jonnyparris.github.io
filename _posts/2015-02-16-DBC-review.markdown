@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Why DBC was worth the investment - DevBootcamp Review"
+date:   2015-02-16 13:34:46
 categories: cultural productivity
 ---
 
