@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post DBC - Final Reflection"
+title:  "Post DBC - Final Reflection Notes"
 date:   2014-10-31 18:34:46
 categories: notes DBC-reflections
 ---

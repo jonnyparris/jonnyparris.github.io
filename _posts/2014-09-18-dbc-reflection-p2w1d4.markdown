@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DBC Phase 2 - Day 4 Reflection"
+title:  "DBC Phase 2 - Day 4 Reflection Notes"
 date:   2014-09-17 23:59:46
 categories: notes DBC-reflections
 ---
