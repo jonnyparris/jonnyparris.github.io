@@ -5,15 +5,15 @@ date:   2015-03-10 09:39:46
 categories: productivity
 ---
 
-This post is about why keyboard shortcuts are worth the steep learning curve effort along with and some strategies for learning them faster.
+This post is about why keyboard shortcuts are worth the steep learning curve effort along with some strategies for learning them faster.
 ![Dead Mouse](/public/images/dead_mouse1.png "Dead Mouse")
 
 ### Why bother?
 
 Speed is the obvious answer, but the benefits of acting faster on your machine are perhaps less immediately obvious.
 
-* **Brainflow** - When you're iterating quickly through different ideas while desigining or debugging your code, you want to minimise the risk of forgetting or disrupting your current train of thought. Blazing fast navigation and code editing reduces the lag between what's in your head and what's on the screen. This helps you keep a clearer head because you have fewer "..and then I do this" actions cached in your memory. Moreover, the speedboost shortens your feedback loop on whether you're hot or cold in the hunt for functional code.
-* **Badassery** - You look like you know what you're doing when you only need your keyboard to produce rapid on-screen results. Hollywood movies have blown this out of proportion somewhat, but the reality is that you're displaying your investment in honing your coding craft when.
+* **Brainflow** - When you're iterating quickly through different ideas while designing or debugging your code, you want to minimise the risk of forgetting or disrupting your current train of thought. Blazing fast navigation and code editing reduces the lag between what's in your head and what's on the screen. This helps you keep a clearer head because you have fewer "..and then I do this" actions cached in your memory. Moreover, the speedboost shortens your feedback loop on whether you're hot or cold in the hunt for functional code.
+* **Badassery** - You look like you know what you're doing when you only need your keyboard to produce rapid on-screen results. Hollywood movies have blown this out of proportion somewhat, but the reality is that you're displaying your investment in honing your coding craft when you're dancing across the keys.
 * **Protect Your Hands** - The time you spend at the keyboard or mouse adds up pretty quickly if you're looking to be coding for the next decade or more of your life. The seconds that you shave from everyday movements are more like hundreds of hours in the long term that can substantially reduce the risk of injury. Not only should you use your mouse less, but you should try to be as efficient as possible with your typing.
 * **It's actually pretty easy** to pick up shortcuts for your current workflows, guess at the shortcuts of new programs or environments, and stay savvy. You can feel hopeless and frustrated a first (much like learning a new language right?) but the new muscle memory and speed payoff comes within days of flipping that mouse.
 
