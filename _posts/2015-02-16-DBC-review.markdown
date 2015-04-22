@@ -30,7 +30,7 @@ All of this served to encourage the idea that you can be more effective when you
     * take both physical and mental breaks
     * are aware of how your body and emotions react to both personal and external triggers (e.g. hunger, anger, shame.)
     * are vulnerable
-* **Habit breeding** - being immersed in a positive and safe environment away from the distractions of the daily grind is a perfect opportunity to plant the seed of new habits. I think I probably spent the first 3 weeks realising what I want those habits to be, but then I had 6 whole weeks to put them into practice.
+* **Habit breeding** - being immersed in a positive and safe environment away from the distractions of the daily grind is a perfect opportunity to plant the seed of new habits. I think I probably spent the first 3 weeks realising what I wanted those habits to be, but then I had 6 whole weeks to put them into practice.
 * **Safe and inspiring network** - none of the mindfulness and vulnerability exercises could have been possible without reassurance that nobody was going to attack you or make you feel terrible. DBC somehow managed to bring out the better side of both staff and students - for some people this meant holding back their most abrasive traits, and for others this meant boosting their kindness and generosity to almost suspicious levels. The resulting culture seemed to surprise everyone there constantly; the sheer novelty of it was encouraging enough for both staff and students to fight hard to maintain it. This was the most powerful part of the whole experience for me.
 
 ### Criticisms
@@ -39,7 +39,7 @@ All of this served to encourage the idea that you can be more effective when you
 * **Why are they in such an expensive part of town?** There really wasn't a satisfactory answer to this from a student perspective. The cons seem to outweigh the pros.
 
 ### Summary
-There are many more details that what I've divulged in this post, but these are my lasting impressions about my overall very positive experience. I was looking for a general review like this when I was researching what it was like so hopefully this can help someone else considering a coding bootcamp.
+There are many more details than what I've already mentioned in this post, but these are my lasting impressions about my overall very positive experience. I was looking for a general review like this when I was researching what it was like so hopefully this can help someone else considering a coding bootcamp.
 Feel free to comment below with any questions or feedback.
 
 ### Further Reading
