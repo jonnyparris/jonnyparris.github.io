@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "How I Get Shit Done - (digital task management tools)"
+title:  "How I Get Shit Done"
 date:   2014-12-08 13:34:46
 categories: cultural productivity
+image: /public/images/flow2.png
+excerpt: <p>Explaining my choice of digital tools for task management.</p>
 ---
 ![Overall Workflow](/public/images/flow2.png "Overall Workflow")
 

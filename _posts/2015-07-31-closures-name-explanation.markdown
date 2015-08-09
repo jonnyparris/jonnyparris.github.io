@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Why are closures called closures?"
+title:  "Why are js closures called closures?"
 date:   2015-07-31 10:49
 categories: learning-code naming
+excerpt: <p>Attempting to link naming with definition with some imagination</p>
 ---
 
 I find it much easier to remember definitions of concepts and terms if I can somehow link it to an explanation or story behind its name. My naming stories may not always be historically accurate or especially exciting but they work for me so maybe you'll find them useful too.

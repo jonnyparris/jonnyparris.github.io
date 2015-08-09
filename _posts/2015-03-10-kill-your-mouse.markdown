@@ -3,6 +3,8 @@ layout: post
 title:  "Kill your mouse"
 date:   2015-03-10 09:39:46
 categories: productivity
+image: /public/images/dead_mouse1.png
+excerpt: <p>why and how you should embrace keyboard shortcuts</p>
 ---
 
 This post is about why keyboard shortcuts are worth the steep learning curve effort along with some strategies for learning them faster.

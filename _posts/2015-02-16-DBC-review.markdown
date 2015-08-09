@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Why DBC was worth the investment - DevBootcamp Review"
+title:  "Why DBC was worth the investment"
 date:   2015-02-16 13:34:46
 categories: cultural productivity
+excerpt: <p>A review of my experience of DevBootcamp in San Francisco, 2014</p>
+image: /public/images/dbc1.jpg
 ---
 
 ![DBC in SF - that's me in green](/public/images/dbc1.jpg "DBC in SF - that's me in green")

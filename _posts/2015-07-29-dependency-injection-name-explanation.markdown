@@ -3,6 +3,7 @@ layout: post
 title:  "Why is it called dependency injection?"
 date:   2015-07-29 12:18
 categories: learning-code naming
+excerpt: <p>Attempting to link naming with definition, using some imagination</p>
 ---
 
 I find it much easier to remember definitions of concepts and terms if I can somehow link it to an explanation or story behind its name. My naming stories may not always be historically accurate or especially exciting but they work for me so maybe you'll find them useful too.
