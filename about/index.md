@@ -4,18 +4,17 @@ title: About
 permalink: /about/
 ---
 
-My name is Ruskin, and I'm learning to code. That learning journey has been on and off for a few years but recently got a fresh speed boost as I completed [Devbootcamp](http://devbootcamp.com/) in San Francisco (Gopher Snakes 2014 hollaaa!).
+We should all be writing more.
 
----
-I started this tech & feels journal for a couple main reasons:
+My name is Ruskin and this is my outlet for sharing & tracking my tech-focused pursuits. I started it back in 2014 when I was getting seriously immersed in mastering coding & web development. The keys reasons back then are still relevant now:
 
-Firstly, regular reflections are a vital part of my learning (aka coping) process as I try to soak up and engage with the buttload of tech information/news/possibilities out there.
+Firstly, there's so much tech information/news/possibilities out there that I have to write things down to truly digest what I discover.
 
-Secondly, I feel that I have a duty to share what I can about my journey in an effort to
+Secondly, I believe we should all share what we can about our discovery journeys in an effort to
 
+  * help anyone else who can benefit from the timeliness of our experiences
   * give back to the community (and feel less like a lurking imposter!)
-  * help anyone else who can benefit from the timeliness of my experiences
-  * encourage anyone else who's considering learning to code to take the plunge.
+  * encourage anyone else who's considering learning to code / start that hobby / do that geeky thing to take the plunge.
 
+Please feel free to get in touch with any feedback, questions, suggestions or corrections to any of the content on here. Or, if you're just having a [general stalk](http://about.me/ruskin) then let me know what you think if we ever meet.
 ---
-Please feel free to get in touch with any feedback, questions, suggestionss or corrections to any of the content on here. Or, if you're just having a [general stalk](http://about.me/ruskin) then let me know what you think if we ever meet in person.
