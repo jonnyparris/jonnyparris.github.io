@@ -6,8 +6,8 @@ categories: fpv diy
 excerpt: <p>Pulling the trigger on my first FPV quadcopter build</p>
 ---
 
-![FPV drones inspiration][http://abstrusegoose.com/strips/goriftdronetag.png]
-*“I would totally play that!!!”*  was my instant reaction to this webcomic a few years ago and the urge to at least attempt to make it a reality has been growing ever since.
+![FPV drones inspiration](http://abstrusegoose.com/strips/goriftdronetag.png)
+**“I would totally play that!!!”**  was my instant reaction to this webcomic a few years ago and the urge to at least attempt to make it a reality has been growing ever since.
 
 You wouldn’t even need fancy flying quadcopters, I would happily play using remote controlled cars or boats or whatever you could strap a laser tag system to.
 In fact, I would be giddy with excitement just flying around as if I was sat inside the vehicle - no lasers necessary!
@@ -41,7 +41,7 @@ The UAVFutures youtube channel was a huge influence in shaping what my budget. I
 
 Out of the many options that Stew helpfully suggests, I opted for these specific parts summarise below.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTI5SwltCHUfr92TzwsQ91drRheeGM8aCNPNhX5T8gTGqMNi1xPsQB1dPqbV7739JH9fyFpBJoIhX8P/pubhtml?gid=416727522&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="700" height="315" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTI5SwltCHUfr92TzwsQ91drRheeGM8aCNPNhX5T8gTGqMNi1xPsQB1dPqbV7739JH9fyFpBJoIhX8P/pubhtml?gid=416727522&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 At time of writing, I’m still waiting for the battery and goggles to arrive. I’ll share my experience trying to follow along with Stew’s soldering and assembly tutorial in a separate post anyway.
 Are you also an FPV fan? I’d love to hear any comments or suggestions or about your experiences getting started with the hobby. Similarly feel free to share any other helpful resources to check out.
