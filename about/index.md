@@ -17,4 +17,3 @@ Secondly, I believe we should all share what we can about our discovery journeys
   * encourage anyone else who's considering learning to code / start that hobby / do that geeky thing to take the plunge.
 
 Please feel free to get in touch with any feedback, questions, suggestions or corrections to any of the content on here. Or, if you're just having a [general stalk](http://about.me/ruskin) then let me know what you think if we ever meet.
----
