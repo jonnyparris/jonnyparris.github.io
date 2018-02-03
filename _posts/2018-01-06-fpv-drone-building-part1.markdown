@@ -29,7 +29,7 @@ I’m going to build my first FPV quadcopter. I will undoubtedly learn a lot alo
 
 ### The Plan So Far
 0. Buy the parts
-1. Assemble the parts
+1. [Assemble the parts](fpv-drone-building-part2)
 2. Learn to fly FPV
 3. Fail, fix, improve
 4. Strap lasers to the whole setup!
@@ -45,3 +45,5 @@ Out of the many options that Stew helpfully suggests, I opted for these specific
 
 At time of writing, I’m still waiting for the battery and goggles to arrive. I’ll share my experience trying to follow along with Stew’s soldering and assembly tutorial in a separate post anyway.
 Are you also an FPV fan? I’d love to hear any comments or suggestions or about your experiences getting started with the hobby. Similarly feel free to share any other helpful resources to check out.
+
+You can [check out Part 2 here](fpv-drone-building-part2).
