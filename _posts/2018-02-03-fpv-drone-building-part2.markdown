@@ -19,7 +19,9 @@ I am *still* waiting for my FPV goggles to arrive from Banggood. My original ord
 
 On the other hand, the re-sent battery arrived in just a couple days. With that, I felt confident to start the epic road of assembling the quadcopter knowing that I had a means to test whether my connections were functional.
 
-I have been diligently following the steps outlined in the [$99 quadcopter build tutorial from UAVFutures](https://www.youtube.com/watch?v=Avp8MurmeEY). However, there have been a number of key details that were either glossed over or just not mentioned in that original video so I've had to update the recipe slightly. I'm jotting down my *actual* build steps here to help both myself and anyone else that may face similar problems starting the hobby as an absolute beginner.
+I have been diligently following the steps outlined in the $99 quadcopter build tutorial from UAVFutures below.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Avp8MurmeEY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+However, there have been a number of key details that were either glossed over or just not mentioned in that original video so I've had to update the recipe slightly. I'm jotting down my *actual* build steps here to help both myself and anyone else that may face similar problems starting the hobby as an absolute beginner.
 
 Despite the surprise extra steps, I really enjoyed discovering many more brilliant FPV dronebuilding content creators and resources across the web. It really seems to be a hobby that has attracted a wealth of passionate and generous personalities.
 
