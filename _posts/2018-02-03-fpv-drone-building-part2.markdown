@@ -6,7 +6,7 @@ categories: fpv diy
 excerpt: <p>Build progress on my first FPV quadcopter</p>
 ---
 
-From [part 1 of this series](2018-01-06-fpv-drone-building-part1.markdown), you may recall **the plan so far**:
+From [part 1 of this series](2018-01-06-fpv-drone-building-part1), you may recall **the plan so far**:
 
 0. Buy the parts
 1. Assemble the parts <-- I AM HERE
