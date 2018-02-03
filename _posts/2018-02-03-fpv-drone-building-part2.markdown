@@ -85,6 +85,9 @@ Despite the surprise extra steps, I really enjoyed discovering many more brillia
     v. The board should work as expected when you reconnect the power
 
 13. Setup Tx to output on correct channels
+
+    This video from Painless360 guides through setting up the exact same radio.
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/K2pPVRTQgi0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 14. Verify FC receives on correct channels
 15. Match FC config to motors wiring setup
 16. Remove throttle spring on Tx
