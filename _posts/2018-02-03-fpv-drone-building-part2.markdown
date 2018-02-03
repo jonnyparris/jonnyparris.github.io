@@ -25,6 +25,8 @@ Despite the surprise extra steps, I really enjoyed discovering many more brillia
 
 #### Build Recipe (Pics to be included...)
 1. Screw motors onto the base frame
+
+    <a href='https://photos.google.com/share/AF1QipMi-UT393KImg4ALPFbOV-ke4y9VRdqiU04pzCvcLklfbJ5ymJpilSLmUTsN7FwtA?key=UWt5anNNM3BDaVR5MkRmRVZVZFpYbmt1MVYzTlF3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/bB-J5cxvCJAOcCkC-wyg7cK4TdCE4REGjuGNYi5a_bIUobl__O-G7L1kdbb2DUKLH6t_LwBeSjeOY9GtLkXuyJPflLQu6jj0gAMbF0hu0fiVUCyzUhTV58aryHQXK-izsmoUHR7OPHI' /></a>
 2. Screw ESC board into middle of frame
 3. Solder the motors to the ESC
 4. Solder battery connector to PDB
