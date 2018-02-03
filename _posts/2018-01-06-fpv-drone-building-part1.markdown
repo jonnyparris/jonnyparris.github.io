@@ -35,11 +35,11 @@ I’m going to build my first FPV quadcopter. I will undoubtedly learn a lot alo
 4. Strap lasers to the whole setup!
 
 ### I bought the parts!
-The UAVFutures youtube channel was a huge influence in shaping what my budget. I strongly recommend checking out the video below and the additional product links included.
+The UAVFutures youtube channel was a huge influence in shaping my budget. I strongly recommend checking out the video below and the additional product links included.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YNAH4C98Qhs" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-Out of the many options that Stew helpfully suggests, I opted for these specific parts summarise below.
+Out of the many options that Stew helpfully suggests, I opted for these specific parts summarised below.
 
 <iframe width="700" height="315" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTI5SwltCHUfr92TzwsQ91drRheeGM8aCNPNhX5T8gTGqMNi1xPsQB1dPqbV7739JH9fyFpBJoIhX8P/pubhtml?gid=416727522&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
