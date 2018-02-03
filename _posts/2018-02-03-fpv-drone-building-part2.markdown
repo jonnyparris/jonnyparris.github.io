@@ -62,15 +62,15 @@ Despite the surprise extra steps, I really enjoyed discovering many more brillia
 
     Luckily, you can recover a bricked controller by following a few straightforward steps. However, a key requisite for that involved creating a shortcircuit between 2 holes in the board (labelled 'boot'). After much panic that I might have to solder something horrific and then de-solder it, I realised that a bit of tin foil would do the trick just fine.
 
-    ##### CleanFlight vs BetaFlight - what software should I be using to setup my FC?
+    #### CleanFlight vs BetaFlight - what software should I be using to setup my FC?
     [**BetaFlight**](https://github.com/betaflight/betaflight-configurator/releases/latest) started as an evolution of CleanFlight in order to test new features. It quickly became a better performing all-round stable product but the name had already stuck. So BetaFlight ftw.
 
-    ##### How to get BetaFlight to recognise your FC plugged in via USB on Mac
+    #### How to get BetaFlight to recognise your FC plugged in via USB on Mac
     i. Try this [VCP driver download](http://www.ftdichip.com/Drivers/VCP.htm).
     
     ii. Try [this one too from Silicon Labs](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers) in case the first one didn't make a difference.
 
-    ##### How to recover a bricked SP Racing F3 FC by flashing the proper firmware.
+    #### How to recover a bricked SP Racing F3 FC by flashing the proper firmware.
 
     i. Short circuit the boot sockets on your FC
     
