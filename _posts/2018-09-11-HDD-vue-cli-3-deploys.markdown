@@ -1,13 +1,10 @@
 ---
 layout: post
-title:  "Deploying a Vue-cli 3 app"
+title:  "Deploying a Vue-cli 3 app with all the bells and whistles"
 date:   2018-09-11 21:19
 categories: vue webdev
 image: /public/images/Vue.js_Logo.svg.png
 excerpt: <p>...as painfully as possible.</p>
----
-
-Deploying a Vue-cli 3 app with all the bells and whistles
 ---
 
 ...as painfully as possible.
@@ -28,10 +25,8 @@ Below are the steps that I wanted to follow:
 
 Writing about my experience with each step (debugging + blogging = deblogging? 🤔) _as I'm developing_ hopefully helps someone out there apart from myself as they too google their way through some hype-driven-development.
 
--
 
-1. Build production version of app `ERROR  Failed to compile with 39 errors`
---
+## 1. Build production version of app `ERROR  Failed to compile with 39 errors`
 Tslint errors to be specific. I dealt with them as follows:
 
 * **`Parameter '_' implicitly has an 'any' type.`** - [a quick google](https://stackoverflow.com/questions/43064221/typescript-ts7006-parameter-xxx-implicitly-has-an-any-type) suggested that I could either go back through my hacked code and set explicit types OR I could make the tslinting less strict with `"strict": false` in my `tsconfig.json` file. I went with the latter...but it STILL did not prevent my `npm run build` from failing. Now I was down to 17 errors.
@@ -77,8 +72,7 @@ Tslint errors to be specific. I dealt with them as follows:
 
 
 
-2. Serve static assets and main app from production dist folder locally with a minimal server.
---
+## 2. Serve static assets and main app from production dist folder locally with a minimal server.
 After all that bruteforcing through foreign error messages this one definitely felt like a doddle.
 I popped the following minimal Express script into the root project folder, copied from [this gist](https://gist.github.com/ryanoglesby08/1e1f49d87ae8ab2cabf45623fc36a7fe)
 
@@ -101,6 +95,6 @@ app.listen(port)
 console.log('server started on port ' + port)
 ```
 
-3. Dockerize the dev and production builds with a multistage Dockerfile and [recommended best practices](https://nodesource.com/blog/containerizing-node-js-applications-with-docker)
---
-TBC
+## 3. Dockerize the dev and production builds with a multistage Dockerfile and [recommended best practices](https://nodesource.com/blog/containerizing-node-js-applications-with-docker)
+
+To be continued (check back for updates)
