@@ -100,7 +100,7 @@ console.log('server started on port ' + port)
 Following the steps in the linked guide above was simple enough. I ended up with a Dockerfile that looked like the following sitting in my root project folder:
 
 ```Dockerfile
-FROM node:latest
+FROM node:11
 
 WORKDIR /home/nodejs/app
 
