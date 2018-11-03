@@ -9,21 +9,21 @@ excerpt: <p>...as painfully as possible.</p>
 
 ...as painfully as possible.
 
-I started a fresh project that I wanted to use as an excuse to dabble in some new tooling and technologies that I had on my "to-try" list.
+I started a fresh project that I wanted to use as an excuse to dabble in some new tooling and technologies that I had on my "to-try" list. A. mixture of chats with colleagues and articles from weekly newsletters for devops and javascript had got me pretty hyped to upgrade how I deploy webapp projects going forward.
 
-However, after spinning up a new vue app complete with Typescript, vue-class etc. I needed to deploy my app with a minimal server and suddenly the docs were less obvious.
+However, after spinning up a new vue app complete with Typescript, vue-class etc. I needed to deploy my app with a minimal server and suddenly the articles and docs were less obvious.
 
 Below are the steps that I wanted to follow:
 
 1. Build production version of the app `npm run build`
 2. Serve static assets and main app from production dist folder locally with a minimal server.
 3. Dockerize the dev and production builds with a multistage Dockerfile and [recommended best practices](https://nodesource.com/blog/containerizing-node-js-applications-with-docker)
-4. Spin up dockerized version of app with kubernetes
+4. Spin up dockerized version of app with Kubernetes
 5. Deploy kubernetes version to Google Cloud or similar
 6. Automate future deployments
 7. Enjoy brief joy before completely new hype train arrives.
 
-Writing about my experience with each step (debugging + blogging = deblogging? 🤔) _as I'm developing_ hopefully helps someone out there apart from myself as they too google their way through some hype-driven-development.
+This article aims to capture my journey through these recipe steps. I hope that writing about my experience with each step (debugging + blogging = **_deblogging_?** 🤔) _as I'm developing_ helps someone out there apart from myself as they too google their way through some hype-driven-development. At the very least it helps force me to explain my actions to myself as I go...like pair-coding...with myself.
 
 
 ## 1. Build production version of app `ERROR  Failed to compile with 39 errors`
@@ -97,4 +97,28 @@ console.log('server started on port ' + port)
 
 ## 3. Dockerize the dev and production builds with a multistage Dockerfile and [recommended best practices](https://nodesource.com/blog/containerizing-node-js-applications-with-docker)
 
-To be continued (check back for updates)
+Following the steps in the linked guide above was simple enough. I ended up with a Dockerfile that looked like the following sitting in my root project folder:
+
+```Dockerfile
+FROM node:latest
+
+WORKDIR /home/nodejs/app
+
+# Enable caching of node_modules if possible
+COPY package.json .
+COPY package-lock.json .
+RUN npm ci --production
+
+COPY dist/ .
+ENV NODE_ENV production
+
+# Run as a non-root user (see https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md#non-root-user)
+USER node
+
+CMD ["node", "simple_server.js"]
+```
+I've heard about [multi-stage docker builds](https://cravencode.com/post/docker/nodejs-local-development/) (i.e. one for local development, another for tests, another for the actual deployment etc.) but I'll get back to that once I've got this thing actually deployed.
+
+## 4. & 5. [Spin up dockerized version of app with kubernetes, deploy that to Google Cloud or similar](https://nodesource.com/blog/scalable-nodejs-with-kubernetes-and-google-kubernetes-engine/)
+
+TBC
