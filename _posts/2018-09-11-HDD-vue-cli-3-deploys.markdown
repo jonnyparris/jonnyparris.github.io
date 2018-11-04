@@ -110,12 +110,14 @@ COPY package-lock.json .
 RUN npm ci --production
 
 COPY dist/ .
+COPY prod_simple_server.js .
 ENV NODE_ENV production
 
 # Run as a non-root user (see https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md#non-root-user)
 USER node
 
-CMD ["node", "simple_server.js"]
+# This 'prod' version of the script above has the file paths adjusted for the fact that we're only copying across the dist/ folder instead of the entire source code.
+CMD ["node", "prod_simple_server.js"]
 ```
 I've heard about [multi-stage docker builds](https://cravencode.com/post/docker/nodejs-local-development/) (i.e. one for local development, another for tests, another for the actual deployment etc.) but I'll get back to that once I've got this thing actually deployed.
 
