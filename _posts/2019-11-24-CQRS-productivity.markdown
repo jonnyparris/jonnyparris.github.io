@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "CQRS productivity"
-date:   2019-11-24 13:11
+title: 'CQRS productivity'
+date: 2019-11-24 13:11
 categories: productivity design
 image: https://upload.wikimedia.org/wikipedia/commons/a/a5/Barack_Obama_and_his_entourage_walk_through_the_Kremlin.jpg
 excerpt: <p>...it's like travelling with an entourage of super skilled personal assistants.</p>
 ---
+
 # Productivity principles to live by & how I apply them
 
 When I'm trying to focus on the task at hand I want to deal with disruptive thoughts or actions without losing my current train of thought or working context.
@@ -15,10 +16,9 @@ For example, I can be writing an article, remember that I need to send an urgent
 ### I just need the UI where I can type & send my message - why am I forced to confront my cluttered inbox in the process?
 
 Changing visual contexts even for a few seconds can destroy my concentration on a task. That's especially disruptive as a programmer where it often takes a long time to re-engage and rebuild the mental house of cards you need to create fresh solutions and/or decipher thorny abstract problems.
-However, I often find that engaging my conscious brain in deep thought has the unexpected side effect of my unconscious brain remembering or coming up with all sorts of good ideas and TODOs. Those mental popups are usually worth capturing to revisit later and sometimes warrant rapid action.*
+However, I often find that engaging my conscious brain in deep thought has the unexpected side effect of my unconscious brain remembering or coming up with all sorts of good ideas and TODOs. Those mental popups are usually worth capturing to revisit later and sometimes warrant rapid action.\*
 
-
-*\* Of course sometimes other people or external forces are the source of interruption too.*
+_\* Of course sometimes other people or external forces are the source of interruption too._
 
 ### So what's the best way to juggle these intrusive sparks of inpiration?
 
@@ -29,10 +29,12 @@ I like to imagine that it's like travelling with an entourage of super skilled p
 It's hard to beat a notepad and pen in the pocket as a cheap & cheerful minimum viable solution for capturing ideas and todos on the fly for deferred triage and action. Pen & paper will always be a solid fallback option for that reason, but we need digital tools to match the digital realm if we want to realise our solo productivity potential.
 
 Whereas you can easily open a notepad to a fresh page to jot down thoughts without reading through every previous entry, software is notoriously contrary. Instead typical UI design results in bundling and burying the tools you need to issue key commands behind the output of unrelated distracting content or notifications.
+
 Computer science includes a concept called Command Query Responsibility Segregation (CQRS) that addresses the essence of my frustration with that habit: retrieving information and modifying data are 2 different wokflows that deserve to be handled differently.
 
 Luckily I've found a few fantastic examples of software designed with a clear appreciation for this principle, and they're helping me inch closer to that ideal digital-entourage of executive assistants.
-##Here's a small selection of highlights:
+
+## Here's a small selection of highlights:
 
 ### 1. [Todoist](www.todoist.com)
 
@@ -49,7 +51,6 @@ Universally available search & action dispatching tool for MacOS (similar to nat
 ### 3. Android widgets
 
 Android app widgets often enable a direct link to the action that you want. Here's an example of the "add TODO" widget from Todoist in action, very similar to the desktop experience. You'll notice I have a few other direct action widgets setup on my homescreen like compose new email, check the weather, create new calendar event, speed dial Wifey, and "Shazam that track"!
-
 
 <video style="height:100%;" controls>
 	<source src="https://lh3.googleusercontent.com/YbWGcEc0Kp3i4N9sLBIrHXSZ1VDa3Qp8f7yXvbh0X7l-w1I1djD9rAn1a_eBR7udWxAwjwbvuOvEd0cAmlrXD_k38snlNhuV1cXNFn0YOVH5h77Sw2jaoiDxWMRXIs96wq05DaGjq-c=m18" type="video/mp4">
