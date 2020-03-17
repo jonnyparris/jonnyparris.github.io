@@ -68,6 +68,10 @@ I'll probably have more to say on this later as more projects (hopefully) reach 
 
 As a final note, the project of projects is of evolving rapidly, and so vast chunks of this might also lose relevance. However it's been useful for me to process some of what's been learned from this initial phase of volunteer crowd-engineering. This is uncharted waters for a lot of us so it's going to take some adjustment and iteration to refine the experience. I'm a firm believer in the maxim of "where there's a will, there's a way". There is a huge amount of good will behind this global-scale effort and I'm excited to be part of the path forward.
 
+## So what now?
+
+There's a first wave of ['official' project proposals that are currently under review](https://drive.google.com/open?id=1O5gC56n7fo5yxQfSC9dw5bkLMANcX1GY). That may surface some teams addressing some of what I mentioned here. However, I might add a/some fresh quick-win proposals to the mix tomorrow and rally a small team around it to build some quick momentum. In particular, I think some sort of portal that scrapes and Github repos and issues to surface and differentiate projects by problems and tech stacks in use might be a handy addition to the ecosystem for other software engineers like myself.
+
 ## Links
 
 1. [https://www.projectopenair.org/](https://www.projectopenair.org/)
