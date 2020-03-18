@@ -70,7 +70,7 @@ As a final note, the project of projects is of evolving rapidly, and so vast chu
 
 ## So what now?
 
-There's a first wave of ['official' project proposals that are currently under review](https://drive.google.com/open?id=1O5gC56n7fo5yxQfSC9dw5bkLMANcX1GY). That may surface some teams addressing some of what I mentioned here. However, I might add a/some fresh quick-win proposals to the mix tomorrow and rally a small team around it to build some quick momentum. In particular, I think some sort of portal that scrapes and Github repos and issues to surface and differentiate projects by problems and tech stacks in use might be a handy addition to the ecosystem for other software engineers like myself.
+There's a first wave of ['official' project proposals that are currently under review](https://drive.google.com/open?id=1O5gC56n7fo5yxQfSC9dw5bkLMANcX1GY). That may surface some teams addressing some of what I mentioned here. However, I might add a/some fresh quick-win proposals to the mix tomorrow and rally a small team around it to build some quick momentum. In particular, I think some sort of portal that scrapes Github repos and issues to surface and differentiate projects by problems and tech stacks in use might be a handy addition to the ecosystem for other software engineers like myself.
 
 ## Links
 
