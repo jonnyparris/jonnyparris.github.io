@@ -66,7 +66,7 @@ I'll probably have more to say on this later as more projects (hopefully) reach 
 
 --- 
 
-As a final note, the project of projects is of evolving rapidly, and so vast chunks of this might also lose relevance. However it's been useful for me to process some of what's been learned from this initial phase of volunteer crowd-engineering. This is uncharted waters for a lot of us so it's going to take some adjustment and iteration to refine the experience. I'm a firm believer in the maxim of "where there's a will, there's a way". There is a huge amount of good will behind this global-scale effort and I'm excited to be part of the path forward.
+As a final note, the project of projects is evolving rapidly, so vast chunks of this might also lose relevance. However it's been useful for me to process some of what's been learned from this initial phase of volunteer crowd-engineering. This is uncharted waters for a lot of us so it's going to take some adjustment and iteration to refine the experience. I'm a firm believer in the maxim of "where there's a will, there's a way". There is a huge amount of good will behind this global-scale effort and I'm excited to be part of the path forward.
 
 ## So what now?
 
