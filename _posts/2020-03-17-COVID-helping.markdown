@@ -37,7 +37,7 @@ So here's a WIP collection of notes and themes to provoke some upgrades to the k
 
 ### Opportunity 1 - *Navigate* a list of projects
 - Navigating projects by the problem that they're solving instead of the solution they're applying is more intuitive when trying to assess where the gaps are in the overall approach.
-- As an engineer, matching current skillset with project tech stacks is a crucial filter when looking for where space to help.
+- As an engineer, matching current skillset with project tech stacks is a crucial filter when looking for where there's space to help.
 - Other skill profiles will need/prefer to filter by location or teamsize in order to find where they can apply themselves usefully. For example, with specific legal knowledge or physical resources, or languages, or networks to leverage.
 - Drilling even further, filtering by level of experience / commitment required to contribute would be a key enabler for eager helpers that have less time available to dedicate around dayjobs and other responsibilities.
 
@@ -54,7 +54,7 @@ The `#introductions` channel in the Slack group is full of mini resumes, often e
 
 However, a summary of the profiles related to each individual project team and how they've assigned responsiblities within them is important. 
 
-On one hand, who do you need to talk with to collaborate on specific areas of the TODO list? More importantly, where is there room for your particular expertise or potential role in pushing a project forward?
+On one hand, who do you need to talk with to collaborate on specific areas of the TODO list? On the other and maybe more importantly, where is there room for your particular expertise or potential role in pushing a project forward?
 
 ### Opportunity 3 - Start *contributing* immediately
 
