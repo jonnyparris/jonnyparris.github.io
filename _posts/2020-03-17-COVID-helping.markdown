@@ -60,6 +60,8 @@ On one hand, who do you need to talk with to collaborate on specific areas of th
 
 It would be great if any software engineer with spare time can just peruse open Github issues across all OpenAir projects, filter for their area of expertise and just submit little PRs within their specific time constraints. You shouldn't even need to engage too deeply with the wider project organisation; just see a list of valuable quickwins that you can tackle rapidly to add value to any team that needs it.
 
+EDIT 2020-03-19: [Commit-to-Covid Project launched to address this today](https://commit-to-fight-covid.netlify.com/). Get involved!
+
 ### Opportunity 4 - Track the successes
 It's going to be important to stay focused on the intended goals of each initiative and measure progress and impact. Not least because there are likely to be repeated 'seasons' of viral outbreak that will likely put pressure on future iterations of each solution to be as impactful as possible.
 I'll probably have more to say on this later as more projects (hopefully) reach a stage where they're delivering trackable impact in communities around the world.
