@@ -55,11 +55,11 @@ Despite the surprise extra steps, I really enjoyed discovering many more brillia
 
     <a href='https://photos.google.com/share/AF1QipPK_qgjwHisvmfLCseROfoALp6rOPkFCzZgso1KMlhQErz_5kYS5NzcB3gQtfwVrg?key=NUdYSlpLRk1aQ2hSZG9pWHRKelc2ZFpvZi1CdnFR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/HHt6lfrAjTONpjLSU6X5F-AnHrr-fCHQq7SPCZchMOep0rC0KpVKRZA_LaVg_ZvWrw-gGxIsV-vKKXCNxkF51mzqtryHWZOSnS2oaQmJN9yLvMlxBw5Fj66d8bRGqneb8ptxQYnn-R4' /></a>
 11. Make sure Rx is bound to your Tx (radio)
-    
+
     My FlySky i6S (v3.0) came with a quickstart guide that was a little too quick. You might want to check out the [full pdf manual](https://www.flyingtech.co.uk/sites/default/files/product_files/FS-i6S-MANUAL-EN-20161001.pdf) too in order to  understand this bit of kit in a bit more detail.
 
 12. Update FC firmware
-    
+
     This step was particularly painful as I somehow managed to 'brick' (render completely useless & unresponsive) my flight controller. This was additional stress *after* a hunt to find the appropriate drivers to enable my Macbook to recognise that the FC was connected via USB.
 
     Luckily, you can recover a bricked controller by following a few straightforward steps. However, a key requisite for that involved creating a shortcircuit between 2 holes in the board (labelled 'boot'). After much panic that I might have to solder something horrific and then de-solder it, I realised that a bit of tin foil would do the trick just fine.
@@ -69,15 +69,15 @@ Despite the surprise extra steps, I really enjoyed discovering many more brillia
 
     #### How to get BetaFlight to recognise your FC plugged in via USB on Mac
     i. Try this [VCP driver download](http://www.ftdichip.com/Drivers/VCP.htm).
-    
+
     ii. Try [this one too from Silicon Labs](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers) in case the first one didn't make a difference.
 
     #### How to recover a bricked SP Racing F3 FC by flashing the proper firmware.
 
     i. Short circuit the boot sockets on your FC
-    
+
     ii. Choose your firmware to flash with the following options enabled
-        
+
         - "No reboot sequence"
         - "Flash on connect"
         - "Full chip erase"
@@ -103,6 +103,8 @@ Despite the surprise extra steps, I really enjoyed discovering many more brillia
 19. Maiden voyage
 20. Setup goggles to receive camera footage via VTx
 21. Maiden FPV voyage
+
+You can checkout [part 3 of this series here.](fpv-drone-building-part3)
 
 ### Some helpful resources for both now & later
 - [Cheap tips to make FPV flying easier](https://irjayjay.blogspot.co.uk/2017/05/cheap-ways-to-improve-your-fpv-flying.html)
