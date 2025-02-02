@@ -62,7 +62,7 @@ The main fuss of the coding step of this is that you can't just treat e-paper li
 Instead it needs a bitmap file so you're basically jumping through hoops to output a bmp image of what you want to show on the screen.
 My little python script is pretty direct in that it constructs the bitmap from scratch and then draws that to the screen.
 
-In contrast, not long after I had finished, a colleague at work published a tutorial for using a Cloudflare Worker to get you through the steps of converting a webpage to a bitmap ready for your e-paper display.
+In contrast, not long after I had finished, a colleague at work [published a tutorial](https://blog.cloudflare.com/the-forecast-is-clear-clouds-on-e-paper-powered-by-the-cloud/) for using a Cloudflare Worker to get you through the steps of converting a webpage to a bitmap ready for your e-paper display.
 That would unlock a much richer set of design options, although it does involve more work.
 
 On a similar theme of upgraded aesthetics, 3D printing a purpose-built housing for the display at the PCBs feels like a perfectly scoped starter project to discover the end-to-end 3D printing process.
